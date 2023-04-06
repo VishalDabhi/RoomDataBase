@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+    <string name="passenger_id">Id:- %1$s</string>
+    <string name="passenger_name">Passenger Name:- %1$s</string>
+    <string name="trips">Trips:- %1$s</string>
+
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+    <string name="phone_colon">Phone:- %1$s</string>
+    <string name="address_colon">Address:- %1$s</string>
+    <string name="name_colon">Name:- %1$s</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -150,7 +150,6 @@ class PhoneBookActivity : AppCompatActivity(), View.OnClickListener, OnClickList
             }
         }
     }
-
     override fun onItemRemovePhoneBook(phoneBook: PhoneBook)
     {
         Log.e(TAG, "onItemRemovePhoneBook()")
